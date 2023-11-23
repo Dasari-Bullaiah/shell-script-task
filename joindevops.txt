@@ -1,0 +1,12 @@
+1. Join DevOps
+2. DevOps
+3. Linux
+4. Shell Scripting
+5. Ansible
+6. Terraform
+7. Jenkins CICD
+8. Docker
+9. Monitoring
+10. AWS
+11. Kubernetes
+12. SonarQube
